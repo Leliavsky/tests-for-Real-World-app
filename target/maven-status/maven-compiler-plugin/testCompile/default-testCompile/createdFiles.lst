@@ -1,0 +1,7 @@
+com\epam\mentoring\taf\ui\UserSignUpTest.class
+com\epam\mentoring\taf\api\UserSignInApiTest.class
+com\epam\mentoring\taf\api\UserSignUpApiTest.class
+com\epam\mentoring\taf\api\SearchingByTagApiTest.class
+com\epam\mentoring\taf\ui\UserSignInTest.class
+com\epam\mentoring\taf\AbstractTest.class
+com\epam\mentoring\taf\ui\SearchingByTagTest.class

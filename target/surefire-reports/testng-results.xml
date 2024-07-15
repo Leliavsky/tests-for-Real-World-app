@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T22:32:36 EEST" name="Surefire suite" finished-at="2024-07-15T22:33:00 EEST" duration-ms="24165">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T22:32:36 EEST" name="Surefire test" finished-at="2024-07-15T22:33:00 EEST" duration-ms="24165">
+      <class name="com.epam.mentoring.taf.ui.UserSignUpTest">
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignUpTest@5e4c8041]" started-at="2024-07-15T22:32:57 EEST" name="initialisation" finished-at="2024-07-15T22:32:58 EEST" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="uiVerification()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignUpTest@5e4c8041]" started-at="2024-07-15T22:32:58 EEST" name="uiVerification" finished-at="2024-07-15T22:33:00 EEST" duration-ms="2010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignUpTest@5e4c8041]" started-at="2024-07-15T22:33:00 EEST" name="terminate" finished-at="2024-07-15T22:33:00 EEST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.ui.UserSignUpTest -->
+      <class name="com.epam.mentoring.taf.ui.UserSignInTest">
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:49 EEST" name="initialisation" finished-at="2024-07-15T22:32:51 EEST" duration-ms="2282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="uiNegativeVerification()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:51 EEST" name="uiNegativeVerification" finished-at="2024-07-15T22:32:53 EEST" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiNegativeVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:53 EEST" name="terminate" finished-at="2024-07-15T22:32:53 EEST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:53 EEST" name="initialisation" finished-at="2024-07-15T22:32:55 EEST" duration-ms="1630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="uiVerification()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:55 EEST" name="uiVerification" finished-at="2024-07-15T22:32:56 EEST" duration-ms="1746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.ui.UserSignInTest@3745e5c6]" started-at="2024-07-15T22:32:56 EEST" name="terminate" finished-at="2024-07-15T22:32:57 EEST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.ui.UserSignInTest -->
+      <class name="com.epam.mentoring.taf.ui.SearchingByTagTest">
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.ui.SearchingByTagTest@60611244]" started-at="2024-07-15T22:32:43 EEST" name="initialisation" finished-at="2024-07-15T22:32:46 EEST" duration-ms="2863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="uiVerification()[pri:0, instance:com.epam.mentoring.taf.ui.SearchingByTagTest@60611244]" started-at="2024-07-15T22:32:46 EEST" name="uiVerification" finished-at="2024-07-15T22:32:48 EEST" duration-ms="2076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.ui.SearchingByTagTest@60611244]" started-at="2024-07-15T22:32:48 EEST" name="terminate" finished-at="2024-07-15T22:32:49 EEST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.ui.SearchingByTagTest -->
+      <class name="com.epam.mentoring.taf.api.UserSignUpApiTest">
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:42 EEST" name="initialisation" finished-at="2024-07-15T22:32:42 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:42 EEST" name="setUp" finished-at="2024-07-15T22:32:42 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="apiAlreadyRegisteredVerification()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:42 EEST" name="apiAlreadyRegisteredVerification" finished-at="2024-07-15T22:32:43 EEST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiAlreadyRegisteredVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="terminate" finished-at="2024-07-15T22:32:43 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method signature="apiEmptyEmailVerification()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="apiEmptyEmailVerification" finished-at="2024-07-15T22:32:43 EEST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiEmptyEmailVerification -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="initialisation" finished-at="2024-07-15T22:32:43 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="initialisation" finished-at="2024-07-15T22:32:43 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="apiVerification()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="apiVerification" finished-at="2024-07-15T22:32:43 EEST" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="terminate" finished-at="2024-07-15T22:32:43 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.UserSignUpApiTest@45dd4eda]" started-at="2024-07-15T22:32:43 EEST" name="terminate" finished-at="2024-07-15T22:32:43 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.api.UserSignUpApiTest -->
+      <class name="com.epam.mentoring.taf.api.UserSignInApiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:41 EEST" name="setUp" finished-at="2024-07-15T22:32:41 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:41 EEST" name="initialisation" finished-at="2024-07-15T22:32:41 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="apiNegativeVerification()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:41 EEST" name="apiNegativeVerification" finished-at="2024-07-15T22:32:42 EEST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiNegativeVerification -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:42 EEST" name="initialisation" finished-at="2024-07-15T22:32:42 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:42 EEST" name="terminate" finished-at="2024-07-15T22:32:42 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method signature="apiVerification()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:42 EEST" name="apiVerification" finished-at="2024-07-15T22:32:42 EEST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.UserSignInApiTest@327b636c]" started-at="2024-07-15T22:32:42 EEST" name="terminate" finished-at="2024-07-15T22:32:42 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.api.UserSignInApiTest -->
+      <class name="com.epam.mentoring.taf.api.SearchingByTagApiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:36 EEST" name="setUp" finished-at="2024-07-15T22:32:36 EEST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:36 EEST" name="initialisation" finished-at="2024-07-15T22:32:36 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="apiNegativeVerification()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:36 EEST" name="apiNegativeVerification" finished-at="2024-07-15T22:32:40 EEST" duration-ms="3312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiNegativeVerification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="terminate" finished-at="2024-07-15T22:32:40 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="initialisation" finished-at="2024-07-15T22:32:40 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="apiVerification1()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="apiVerification1" finished-at="2024-07-15T22:32:40 EEST" duration-ms="672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiVerification1 -->
+        <test-method signature="apiVerification2()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="apiVerification2" finished-at="2024-07-15T22:32:41 EEST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiVerification2 -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="initialisation" finished-at="2024-07-15T22:32:40 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:40 EEST" name="terminate" finished-at="2024-07-15T22:32:40 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method signature="apiVerification3()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:41 EEST" name="apiVerification3" finished-at="2024-07-15T22:32:41 EEST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiVerification3 -->
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:41 EEST" name="initialisation" finished-at="2024-07-15T22:32:41 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:41 EEST" name="terminate" finished-at="2024-07-15T22:32:41 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.epam.mentoring.taf.api.SearchingByTagApiTest@13acb0d1]" started-at="2024-07-15T22:32:41 EEST" name="terminate" finished-at="2024-07-15T22:32:41 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.epam.mentoring.taf.api.SearchingByTagApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
